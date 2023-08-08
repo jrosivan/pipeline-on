@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 //import logo from './logo.svg';
-import mba from './OctoCat.jpg';
+import mba from './imgteste.png';
 import './App.css';
 
 class App extends Component {
@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={mba} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to 2023 - MBA AS_06"</h1>
+          <h1 className="App-title">Welcome to MBA - 2023 - 1SCJR"</h1>
         </header>
       </div>
     );
